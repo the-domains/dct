@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[dct]]></title>
+        <description><![CDATA[dct]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 00:21:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[David Chang | LinkedIn]]></title>
+            <description><![CDATA[<article><h1>David Chang | LinkedIn</h1><p>Systems and methods for a maze chase hybrid game having a gambling game and an entertainment game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cc9a9bc88040f303cb3d337b0173a7c941d975c.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/in/davidbchang?trk=nav_responsive_tab_profile</link>
+            <guid isPermaLink="false">fbe0e3a2-dafe-49f6-aeab-3fad9f32f8cb</guid>
+            <pubDate>Thu, 28 Jan 2016 00:19:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
